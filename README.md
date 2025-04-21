@@ -1,2 +1,2 @@
 # diarynumber.github.io
-random diary number
+diarynumber.github.io
